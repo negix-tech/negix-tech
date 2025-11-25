@@ -23,6 +23,5 @@ Currently growing through bootcamps and self-study, blending art + technology to
 
 ## 📫 Reach Me
 - LinkedIn: [negix-tech](https://linkedin.com/in/negix-tech)
-- Instagram: [
-](https://instagram.com/negix.ir)
+- Instagram: [negix.ir](https://instagram.com/negix.ir)
 - Website: coming soon...
